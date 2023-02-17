@@ -1,1 +1,3 @@
-prunt('hello')
+print('hello')
+
+#check how push is working
